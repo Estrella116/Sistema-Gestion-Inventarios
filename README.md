@@ -21,3 +21,5 @@ El programa permite registrar productos, mostrar sus características y calcular
 
 ## Autor
 Adán Lugo
+
+Proyecto académico desarrollado para la actividad final.
